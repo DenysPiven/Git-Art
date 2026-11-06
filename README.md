@@ -1,4 +1,4 @@
-# GitArt
+# Git Art
 
 Personal repository for customizing my [GitHub contribution graph](https://github.com/DenysPiven).
 
